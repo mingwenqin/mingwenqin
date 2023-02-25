@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qin Mingwen</h1>
 <h3 align="center">A passionate data scientist from China</h3>
 
-Aspiring data scientist, having exposure and experience in Optimization and Data Analysis for wind turbines.
+🦉Aspiring data scientist, having exposure and experience in Optimization and Data Analysis for wind turbines.
 
 - 🔭 I’m currently working on **Data Analysis, Machine Learning and Optimization Algorithms**
 
